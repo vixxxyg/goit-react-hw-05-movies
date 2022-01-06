@@ -1,0 +1,13 @@
+.shortInfo {
+  display: flex;
+}
+
+.shortInfoChild {
+  width: 800px;
+  padding-left: 50px;
+}
+
+.additionalInfoSet {
+  margin-bottom: 40px;
+  list-style: none;
+}
